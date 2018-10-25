@@ -1,4 +1,4 @@
-![Custody Solutions](/assets/images/blog/custody-solutions/custody-solutions.jpg)
+![Custody Solutions](https://raw.githubusercontent.com/carboncustody/blog/master/images/custody-solutions/custody-solutions.jpg)
 
 Custody Solutions
 =================
@@ -13,7 +13,7 @@ Private Key Custodians
 
 Most private key custodians are using a system called Shamir's Secret Sharing. This is a way of dividing private keys into parts which can be stored on paper.
 
-![Shamirs Secret Sharing](https://custody-cb7e0882bb.c9users.io/images/blog/custody-solutions/shamir-secret.png)
+![Shamirs Secret Sharing](https://raw.githubusercontent.com/carboncustody/blog/master/images/custody-solutions/shamir-secret.png)
 
 The paper fragments can be locked away safely, unlocked, and recombined when a payment needs to be made.
 
@@ -62,7 +62,7 @@ It's important to know how your provider implements procedures around the storag
 Hybrid Custodians
 -----------------
 
-![Hybrid Custody Solutions](/assets/images/blog/custody-solutions/custody-dashboard-screenshot-min.png)
+![Hybrid Custody Solutions](https://raw.githubusercontent.com/carboncustody/blog/master/images/custody-solutions/custody-dashboard-screenshot-min.png)
 
 Hybrid custodians use the multi-signature facilities built into most cryptocurrencies so that they don't need access to your private keys.
 
