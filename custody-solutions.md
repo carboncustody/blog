@@ -103,10 +103,12 @@ To achieve this the organization designates team members to be trusted with priv
  
  * Funds can be moved quickly. Hybrid solutions don't require a signing ceremony from the custody provider. Your trusted employees can remotely sign payments on your timescales.
  
-Conclusion
-----------
+Conclusion and final thoughts
+-----------------------------
  
-The trade-off in choosing a custody solution is whether you want to fully trust a 3rd party with your private keys and therefore your funds, or if you want to maintain control.
+The trade-off in choosing a custody solution is whether you want to fully trust a 3rd party with your private keys and therefore your funds, or if you want to maintain control and manage the private keys yourself.
+
+If you have any thoughts our questions feel free to contact us, we'd be delighted to hear from you.
  
  
  
