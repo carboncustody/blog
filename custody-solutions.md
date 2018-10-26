@@ -1,6 +1,6 @@
 ---
 title: Cryptocurrency custody solutions and their security impact.
-description: Not all custody solutions require the provider to own your private keys. Find out how Hybrid custodians secure your crypto currencies.
+description: Not all custody solutions require the provider to own your private keys. Find out how Hybrid custodians secure your crypto curreny funds.
 ---
 
 ![Custody Solutions](https://raw.githubusercontent.com/carboncustody/blog/master/images/custody-solutions/custody-solutions.jpg)
